@@ -4,14 +4,18 @@ Understand biology deeply. Engineer it responsibly. Advance humanity collectivel
 ### MASTER PLANS
 We create systems that expand our ability to study and engineer biological processes.
 
-- [MASTER PLAN 1: BIOTECH TOOLS]()
+- [MASTER PLAN 1: BIOTECH TOOLS](https://linear.app/bynmo/initiative/master-plan-1-biotech-tools-43de808d038d/overview)
 
 ### RESOURCES
 - [API](https://api.bynmo.com)
 - [Website](https://bynmo.com)
 - [Documentation](https://docs.bynmo.com)
-- [Team Documentation](https://drive.google.com/drive/folders/1fObe8PDA6Pvdcau_QHz3gom3JjSwnaFg?usp=drive_link)
-
+- [Team Project Management](https://linear.app/bynmo)
+- [Team Diagrams](https://app.eraser.io/workspace/lUfzPyWNXSWW42PSyCXS)
+- [Team Designs](https://www.figma.com/files/team/1589051288965549194/all-projects)
+- [Team Discord](https://discord.gg/zfSBTbth)
+- [Team Drive](https://drive.google.com/drive/folders/1fObe8PDA6Pvdcau_QHz3gom3JjSwnaFg?usp=drive_link)
+  
 ### MEMBERS
 <details>
   <summary><strong>Mzamo Tembe</strong></summary>
